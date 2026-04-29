@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 app.use(express.json());
 
-const ACCESS_TOKEN = 'TEST-7e9c233e-9d59-46bd-95bb-c375189d4226';
+const ACCESS_TOKEN = 'TEST-5176831108527295-042823-b6503c1aefbd9e4b53e028a844735040-290638225';
 
 const PLANOS = {
   basico:  { titulo: 'Plano Básico LOMAR',  preco: 49.90,  creditos: 15 },
